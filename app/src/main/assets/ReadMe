@@ -1,0 +1,10 @@
+* Change Selection for future laounchage adb device
+* Tax where come from webserce and how to do that
+* Grn List
+* Login Year code
+
+
+  android:contentInsetLeft="0dp"
+            android:contentInsetStart="0dp"
+            app:contentInsetLeft="0dp"
+            app:contentInsetStart="0dp"

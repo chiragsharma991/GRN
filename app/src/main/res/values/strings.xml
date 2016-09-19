@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Gayatri Construction</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Enter Username</string>
+    <string name="prompt_password">Enter Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="error_server">Server error, try again</string>
+    <string name="error_internet">Please check your Internet connection!</string>
+    <string name="error_server_login">Your username and password is wrong</string>
+
+    <string name="login_url">Get_User_Login</string>
+    <string name="project_url">Get_User_WorkCenter</string>
+    <string name="get_project_list_gtn_url">Get_WorkCenter</string>
+    <string name="get_grn_list_url">Get_GRN_List</string>
+    <string name="get_gtn_list_url">Get_GTN_List</string>
+    <string name="get_product_category_url">Get_Product_Category_Master</string>
+    <string name="get_product_category_detail_url">Get_Product_Category_Wise</string>//
+    <string name="get_supplier_list_url">Get_PartyMaster_ByPartyType</string>
+    <string name="get_PO_list_url">Get_Order_Code_Based_On_Party</string>
+    <string name="get_unit_list_url">Get_Unit_List</string>
+    <string name="get_tax_list_url">Get_Fill_Tax_Grid</string>
+    <string name="no_data_available">Sorry! No data available</string>
+    <string name="crash_toast_text">Crash Report</string>
+    <string name="get_year_list_url">Year_Fill</string>
+    <string name="insert_grn_product">Insert_GRN_Product</string>
+    <string name="insert_grn_master">Insert_GRN_Master</string>
+    <string name="delete_grn_product_url">Delete_GRN_Product</string>
+    <string name="delete_gtn_product_url">Delete_GTN_Product</string>
+    <string name="get_grn_code_url">Get_Transaction_Code</string>
+    <string name="party_list_url">Get_PartyMaster</string>
+    <string name="payment_report_url">Payment_Outstanding_Report</string>
+    <string name="aging_report_url">Aging_Report</string>
+    <string name="error_data_unavailable">Sorry! Data not available</string>
+    <string name="insert_gtn_master">Insert_GTN_Master</string>
+    <string name="insert_gtn_product">Insert_GTN_Product</string>
+    <string name="get_product_master_report_url">Get_Product_master_report</string>
+    <string name="get_stock_report_url">Stock_Register_Report</string>
+    <string name="edit_grn_url">GRN_Report</string>
+    <string name="edit_gtn_url">GTN_Report</string>
+    <string name="update_grn_master">Update_GRN_Master</string>
+    <string name="update_gtn_master">Update_GTN_Master</string>
+    <string name="delete_gtn_master">Delete_GTN</string>
+    <string name="delete_grn_master">Delete_GRN</string>
+
+    <string-array name="DummyArray">
+        <item>Red Line</item>
+        <item>Blue Line</item>
+        <item>Orange Line</item>
+        <item>Green Line</item>
+        <item>Brown Line</item>
+        <item>Purple Line</item>
+        <item>Pink Line</item>
+        <item>Yellow Line</item>
+    </string-array>
+
+</resources>
